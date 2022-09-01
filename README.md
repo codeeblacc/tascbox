@@ -14,8 +14,6 @@ Install requiements and launch server
 
     $ npm install && npm start
 
-<br>
-
 <!-- ### Contributions
 <a href="https://github.com/codeeblacc/tascbox/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=codeeblacc/tascbox" height="34"/>

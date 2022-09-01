@@ -8,8 +8,7 @@ Distributed under the MIT License. See [LICENSE](https://en.wikipedia.org/wiki/M
 
 CLone repoistory and navigate to cloned folder
 
-    $ git clone  https://github.com/dycode999/rboxbundle.git
-    $ cd rboxbundle
+    $ git clone  https://github.com/codeeblacc/tascbox.git && cd tascbox
 
 Install requiements and launch server
 
@@ -17,11 +16,11 @@ Install requiements and launch server
 
 <br>
 
-### Contributions
+<!-- ### Contributions
 <a href="https://github.com/codeeblacc/tascbox/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=codeeblacc/tascbox" height="34"/>
 </a>
-<br><br>
+<br><br> -->
 
 ## Licence & Author
 MIT License

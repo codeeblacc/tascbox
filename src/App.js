@@ -3,7 +3,7 @@ import React from 'react';
 export class App extends React.Component {
   render() {
     return (
-      <div>Tascbox</div>
+      <div>tascbox</div>
     )
   }
 }
